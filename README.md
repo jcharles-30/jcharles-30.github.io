@@ -5,17 +5,6 @@
         <title>Project: Event invite</title>
         <link rel="stylesheet" >
         <style>
-           spn{
-              height:156px;
-              display:grid;
-              align-items:center;
-              background:black;
-              color:white;
-              border:ridge;
-              border-color:rgb(255, 255, 255);
-              font-family:serif;
-
-           } 
             h1{
                 text-align:center;
                 background: url(logomakr.com/6Z0KbC);
@@ -33,9 +22,8 @@
         </style>
     </head>
     <body>
-    
-       <span><h1>BTB Accounting Services</h1></span>
-
+        <img src="logo-icon.png" alt="My test image">
+        <h1>BTB Accounting Services</h1>
         <div> <h2 id="home">Home</h2>
         <ul>
             <li><a href="#about-us">About Us</a></li>
