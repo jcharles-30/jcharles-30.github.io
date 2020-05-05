@@ -40,13 +40,8 @@
         </p>
         <h2 id="office-pics">Office Pictures</h2>
         <p>  The logo will be used mostly on business cards and stationary, so remember that it needs to look good at a small scale.  The owner wants to make sure it looks good in black and white and color.  Elegant, easy to read (probably serif) font.  The art attached to the logo should be a well-defined dual-color shape(s). 
-
- 
-
 The website should be very corporate, have a comprehensive color scheme (complimentary or monochromatic) and be easy to navigate around.  While they are a small business they want to give the impression that they are very professional, so imagery should be corporate/office settings and accounting related.  Green is the color of money: probably a good color to work with on the site too.  Make sure to include the following tabs:</p></div>
         
-     <a herf="logomakr.c
-     om/6Z0KbC"> </a>
         
     </body>
 </html>
